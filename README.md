@@ -283,7 +283,7 @@ while True:
 Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke dalam list 'nilai' <br>
 
 * Terakhir kita akan mencetak hasil dari program yang telah dibuat
-![hasil](Foto/SHOBA3.PNG)
+![hasil](Foto/faizal2.PNG)
 
 # TERIMA KASIH <br>
 Cukup sekian Mohon Maaf apabila dalam mengerjakan tugas banyak yang salah baik dalam codingan dan lain-lainnya.
